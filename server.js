@@ -1,4 +1,3 @@
-// tools that we need
 var express = require('express');
 var app = express();
 var config = require('./config');

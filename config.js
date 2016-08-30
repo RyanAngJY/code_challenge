@@ -8,10 +8,9 @@ module.exports = {
         },
         port: process.env.PORT || 8080,
         db: {
-            host: 'ec2-54-243-207-190.compute-1.amazonaws.com',
-            name: 'dba6tjm1losdj5',
-            username: 'pwoofbjjtwnicv',
-            password: 'KxPKHT2Ni1hUGQoJ0UGLB-ZUPF',
-            port: '5432'
+            host: '<YOUR HOST URL>',
+            name: '<YOUR DB NAME>',
+            username: '<YOUR USERNAME>',
+            password: '<YOUR PASSWORD>'
         }
     };

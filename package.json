@@ -1,7 +1,7 @@
 {
   "name": "Sloogle",
   "version": "1.0.0",
-  "description": "Unsplash search engine & coding challenge",
+  "description": "Unsplash search engine & code challenge",
   "main": "server.js",
   "scripts": {
     "start": "node_modules/.bin/gulp server"
